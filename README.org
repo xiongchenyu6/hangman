@@ -1,0 +1,3 @@
+* hangman
+
+This is a beginner haskeller project.
